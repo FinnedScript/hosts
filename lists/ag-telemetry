@@ -1,0 +1,89 @@
+# Block Nvidia Telemetry
+||gfswl.geforce.com^$important
+||*telemetry*.nvidia.com^$important
+||gfe.nvidia.com^$important
+||cs515.and.phicdn.net^$important
+||activation.gfe.nvidia.com^$important
+||ls.dtrace.nvidia.com^$important
+||*events*.nvidia.com^$important
+||telemetry.gfe
+
+# Block Unity Telemetry
+||cdp.cloud.unity3d.com^$important
+||config.uca.cloud.unity3d.com^$important
+||perf-events.cloud.unity3d.com^$important
+||prd-lender.cdp.internal.unity3d.com^$important
+||thind-gke-usc.prd.data.corp.unity3d.com^$important
+||thind-prd-knob.data.ie.unity3d.com^$important
+||remote-config-proxy-prd.uca.cloud.unity3d.com^$important
+||*redshell.io^$important
+||*treasuredata.com^$important
+
+# Block Epic Games Telemetry
+||metrics.ol.epicgames.com^$important
+@@||eulatracking-public-service-prod.ak.epicgames.com^$important
+
+# Block Amazon Telemetry
+||fireoscaptiveportal.com^$important
+||*echocaptiveportal.com^$important
+||web.diagnostic.networking.aws.dev
+
+# Block VLC Telemetry
+||win.crashes.videolan.org^$important
+
+# Block Rockstar Games Telemetry
+||prs-rgl-prod.ros.rockstargames.com^$important
+||ps-rgl-prod.ros.rockstargames.com^$important
+||tm-rgl-prod.ros.rockstargames.com^$important
+||rsgames.s.llnwi.net^$important
+||e6913.dscx.akamaiedge.net^$important
+||e8290.dscd.akamaiedge.net^$important
+
+# Block Windows 11 Telemetry
+||activity.windows.com^$important
+||tile-service.weather.microsoft.com^$important
+||cdn.onenote.net^$important
+||spclient.wg.spotify.com^$important
+||evoke-windowsservices-tas.msedge.net^$important
+||arc.msn.com*^$important
+||ris.api.iris.microsoft.com^$important
+||mucp.api.account.microsoft.com^$important
+||*.pipe.aria.microsoft.com^$important
+||manage.devcenter.microsoft.com^$important
+||v10.events.data.microsoft.com^$important
+||v10c.events.data.microsoft.com^$important
+||v10.vortex-win.data.microsoft.com^$important
+||watson.telemetry.microsoft.com^$important
+||umwatsonc.events.data.microsoft.com^$important
+||*-umwatsonc.events.data.microsoft.com^$important
+||ceuswatcab01.blob.core.windows.net^$important
+||ceuswatcab02.blob.core.windows.net^$important
+||eaus2watcab01.blob.core.windows.net^$important
+||eaus2watcab02.blob.core.windows.net^$important
+||weus2watcab01.blob.core.windows.net^$important
+||weus2watcab02.blob.core.windows.net^$important
+||oca.telemetry.microsoft.com^$important
+||oca.microsoft.com^$important
+||kmwatsonc.events.data.microsoft.com^$important
+||*-kmwatsonc.events.data.microsoft.com^$important
+||*events*data.microsoft.com^$important
+||*telemetry*microsoft.com^$important
+
+# Block Google Analytics
+||*google-analytics.com^$important
+
+# Block Brave Telemetry
+||*rewards.brave.com^$important
+||*.basicattentiontoken.org^$important
+||variations.brave.com^$important
+||laptop-updates.brave.com^$important
+||p3a.brave.com^$important
+
+# Block MoviesAnywhere Telemetry
+||event-collector.moviesanywhere.com^$important
+
+# Block Domains With Telemetry, Track, Diagnostic, or Analytic In Name
+||*telemetry*^$important
+||*track*^$important
+||*diagnostic*^$important
+||*analytic*^$important
