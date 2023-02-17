@@ -76,7 +76,6 @@
 ||*rewards.brave.com^$important
 ||*.basicattentiontoken.org^$important
 ||variations.brave.com^$important
-||laptop-updates.brave.com^$important
 ||p3a.brave.com^$important
 
 # Block MoviesAnywhere Telemetry
