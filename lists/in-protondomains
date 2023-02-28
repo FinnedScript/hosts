@@ -40,6 +40,8 @@ ch-uk-01b.protonvpn.net
 ch-uk-01c.protonvpn.net
 ch-uk-01a.protonvpn.net
 ch-uk-01d.protonvpn.net
+ch-uk-01e.protonvpn.net
+ch-uk-01f.protonvpn.net
 ch-us-01g.protonvpn.net
 ch-us-01h.protonvpn.net
 ch-us-01i.protonvpn.net
@@ -139,6 +141,7 @@ node-be-01.protonvpn.net
 is-be-01a.protonvpn.net
 is-be-01c.protonvpn.net
 is-be-01d.protonvpn.net
+is-be-01b.protonvpn.net
 ch-lu-01d.protonvpn.net
 se-pt-01d.protonvpn.net
 is-il-01a.protonvpn.net
@@ -331,6 +334,7 @@ node-us-109.protonvpn.net
 node-ae-03.protonvpn.net
 node-be-03.protonvpn.net
 ch-be-01a.protonvpn.net
+ch-be-01b.protonvpn.net
 node-ca-10.protonvpn.net
 node-ca-11.protonvpn.net
 node-no-04.protonvpn.net
@@ -354,6 +358,8 @@ node-us-111.protonvpn.net
 node-us-112.protonvpn.net
 is-uk-01b.protonvpn.net
 is-uk-01a.protonvpn.net
+is-uk-01c.protonvpn.net
+is-uk-01d.protonvpn.net
 node-cy-01.protonvpn.net
 ch-cy-01a.protonvpn.net
 node-nl-43.protonvpn.net
@@ -529,3 +535,17 @@ node-us-177.protonvpn.net
 node-us-178.protonvpn.net
 node-us-182.protonvpn.net
 node-cz-04.protonvpn.net
+node-fr-15.protonvpn.net
+node-fr-16.protonvpn.net
+node-fr-17.protonvpn.net
+node-fr-22.protonvpn.net
+node-fr-18.protonvpn.net
+node-fr-21.protonvpn.net
+node-fr-20.protonvpn.net
+node-fr-19.protonvpn.net
+node-uk-15.protonvpn.net
+node-uk-16.protonvpn.net
+node-uk-17.protonvpn.net
+node-uk-18.protonvpn.net
+node-be-04.protonvpn.net
+node-be-05.protonvpn.net

@@ -69,6 +69,12 @@
 ||*events*data.microsoft.com^$important
 ||*telemetry*microsoft.com^$important
 
+# Block Apple Telemetry
+||iphonesubmissions.apple.com^$important
+||radarsubmissions.apple.com^$important
+||securemetrics.apple.com^$important
+||metrics.icloud.com^$important
+
 # Block Google Analytics
 ||*google-analytics.com^$important
 
