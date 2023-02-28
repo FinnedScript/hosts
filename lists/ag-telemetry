@@ -71,6 +71,7 @@
 
 # Block Apple Telemetry
 ||iphonesubmissions.apple.com^$important
+||iphonesubmissions.v.aaplimg.com^$important
 ||radarsubmissions.apple.com^$important
 ||securemetrics.apple.com^$important
 ||metrics.icloud.com^$important
