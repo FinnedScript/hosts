@@ -4,7 +4,6 @@
 ||gfe.nvidia.com^$important
 ||cs515.and.phicdn.net^$important
 ||activation.gfe.nvidia.com^$important
-||ls.dtrace.nvidia.com^$important
 ||*events*.nvidia.com^$important
 ||telemetry.gfe
 
