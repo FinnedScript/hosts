@@ -25,10 +25,13 @@
 # Block Amazon Telemetry
 ||fireoscaptiveportal.com^$important
 ||*echocaptiveportal.com^$important
-||web.diagnostic.networking.aws.dev
+||web.diagnostic.networking.aws.dev^$important
+||data.alexa.com^$important
+||device-metrics-us.amazon.com^$important
+||device-metrics-us-2.amazon.com^$important
 
 # Block VLC Telemetry
-||win.crashes.videolan.org^$important
+||*crashes.videolan.org^$important
 
 # Block Rockstar Games Telemetry
 ||prs-rgl-prod.ros.rockstargames.com^$important
@@ -49,7 +52,8 @@
 ||mucp.api.account.microsoft.com^$important
 ||*.pipe.aria.microsoft.com^$important
 ||manage.devcenter.microsoft.com^$important
-||v10.events.data.microsoft.com^$important
+||*v10.events.data.microsoft.com^$important
+||*v20.events.data.microsoft.com^$important
 ||v10c.events.data.microsoft.com^$important
 ||v10.vortex-win.data.microsoft.com^$important
 ||watson.telemetry.microsoft.com^$important
@@ -72,11 +76,35 @@
 ||iphonesubmissions.apple.com^$important
 ||iphonesubmissions.v.aaplimg.com^$important
 ||radarsubmissions.apple.com^$important
-||securemetrics.apple.com^$important
+||radarsubmissions.apple.com.akadns.net^$important
+||acfeedbackws.icloud.com^$important
+||api-adservices.apple.com^$important
+||books-analytics-events.apple.com^$important
+||books-analytics-events.news.apple-dns.net^$important
+||dzc-metrics.mzstatic.com^$important
+||feedbackws.icloud.com^$important
+||iadsdk.apple.com^$important
+||metrics.apple.com^$important
 ||metrics.icloud.com^$important
+||metrics.mzstatic.com^$important
+||notes-analytics-events.apple.co^$importantm
+||notes-analytics-events.news.apple-dns.net^$important
+||securemetrics.apple.com^$important
+||securemvt.apple.com^$important
+||stocks-analytics-events.apple.com^$important
+||stocks-analytics-events.news.apple-dns.net^$important
+||supportmetrics.apple.com^$important
+||weather-analytics-events.apple.com^$important
+||weather-analytics-events.news.apple-dns.net^$important
 
 # Block Google Analytics
 ||*google-analytics.com^$important
+
+# Block Crashlytics
+||*crashlytics.com^$important
+||*fabric.io^$important
+||crashlyticsreports-pa.googleapis.com^$important
+||firebasecrashlyticssymbols.googleapis.com^$important
 
 # Block Brave Telemetry
 ||*rewards.brave.com^$important
@@ -87,8 +115,9 @@
 # Block MoviesAnywhere Telemetry
 ||event-collector.moviesanywhere.com^$important
 
-# Block Domains With Telemetry, Track, Diagnostic, or Analytic In Name
+# Block Domains With Telemetry, Track, Diagnostic, Analytic, or Metric In Name
 ||*telemetry*^$important
 ||*track*^$important
 ||*diagnostic*^$important
 ||*analytic*^$important
+||*metric*^$important
