@@ -1,4 +1,4 @@
-Updated on: 03-23-23
+Updated on: 03-24-23
 
 node-is-01.protonvpn.net
 node-nl-01.protonvpn.net
@@ -31,6 +31,9 @@ ch-ca-01f.protonvpn.net
 ch-ca-01a.protonvpn.net
 ch-ca-01k.protonvpn.net
 ch-ca-01b.protonvpn.net
+ch-ca-01i.protonvpn.net
+ch-ca-01c.protonvpn.net
+ch-ca-01h.protonvpn.net
 ch-uk-01h.protonvpn.net
 ch-uk-01c.protonvpn.net
 ch-uk-01e.protonvpn.net
@@ -96,6 +99,7 @@ is-us-01p.protonvpn.net
 is-us-01t.protonvpn.net
 is-us-01w.protonvpn.net
 is-us-01v.protonvpn.net
+is-us-01x.protonvpn.net
 is-ca-01e.protonvpn.net
 is-ca-01a.protonvpn.net
 is-ca-01c.protonvpn.net
@@ -186,6 +190,12 @@ ch-nl-01e.protonvpn.net
 ch-nl-01f.protonvpn.net
 ch-nl-01g.protonvpn.net
 ch-nl-01h.protonvpn.net
+ch-nl-01j.protonvpn.net
+ch-nl-01l.protonvpn.net
+ch-nl-01m.protonvpn.net
+ch-nl-01n.protonvpn.net
+ch-nl-01o.protonvpn.net
+ch-nl-01p.protonvpn.net
 node-es-03.protonvpn.net
 ch-es-01a.protonvpn.net
 ch-ae-01b.protonvpn.net
@@ -205,6 +215,31 @@ se-au-01a.protonvpn.net
 se-au-01b.protonvpn.net
 se-au-01c.protonvpn.net
 node-us-58.protonvpn.net
+se-us-01a.protonvpn.net
+se-us-01b.protonvpn.net
+se-us-01c.protonvpn.net
+se-us-01d.protonvpn.net
+se-us-01e.protonvpn.net
+se-us-01f.protonvpn.net
+se-us-01g.protonvpn.net
+se-us-01h.protonvpn.net
+se-us-01j.protonvpn.net
+se-us-01k.protonvpn.net
+se-us-01i.protonvpn.net
+se-us-01m.protonvpn.net
+se-us-01l.protonvpn.net
+se-us-01n.protonvpn.net
+se-us-01x.protonvpn.net
+se-us-01w.protonvpn.net
+se-us-01u.protonvpn.net
+se-us-01r.protonvpn.net
+se-us-01q.protonvpn.net
+se-us-01p.protonvpn.net
+se-us-01o.protonvpn.net
+se-us-01y.protonvpn.net
+se-us-01z.protonvpn.net
+se-us-01t.protonvpn.net
+se-us-01v.protonvpn.net
 node-si-01.protonvpn.net
 ch-si-01a.protonvpn.net
 node-my-01.protonvpn.net
@@ -244,6 +279,7 @@ ch-lt-01b.protonvpn.net
 ch-md-01b.protonvpn.net
 ch-pt-01d.protonvpn.net
 ch-ar-01a.protonvpn.net
+ch-ar-01b.protonvpn.net
 node-ae-02.protonvpn.net
 ch-hu-01b.protonvpn.net
 ch-hu-01c.protonvpn.net
@@ -527,12 +563,6 @@ node-us-187.protonvpn.net
 node-us-196.protonvpn.net
 node-us-195.protonvpn.net
 node-us-188.protonvpn.net
-se-us-02a.protonvpn.net
-se-us-02b.protonvpn.net
-se-us-02f.protonvpn.net
-se-us-02e.protonvpn.net
-se-us-02c.protonvpn.net
-se-us-02d.protonvpn.net
 node-us-194.protonvpn.net
 node-us-189.protonvpn.net
 node-us-193.protonvpn.net
@@ -550,3 +580,6 @@ ch-fr-01i.protonvpn.net
 ch-fr-01l.protonvpn.net
 ch-fr-01j.protonvpn.net
 ch-fr-01k.protonvpn.net
+node-ca-22.protonvpn.net
+node-ca-21.protonvpn.net
+node-ca-20.protonvpn.net
