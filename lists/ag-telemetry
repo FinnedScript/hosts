@@ -115,9 +115,7 @@
 # Block MoviesAnywhere Telemetry
 ||event-collector.moviesanywhere.com^$important
 
-# Block Domains With Telemetry, Track, Diagnostic, Analytic, or Metric In Name
+# Block Domains With Telemetry, Diagnostic or Analytic In Name
 ||*telemetry*^$important
-||*track*^$important
 ||*diagnostic*^$important
 ||*analytic*^$important
-||*metric*^$important
