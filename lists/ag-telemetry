@@ -1,7 +1,5 @@
 # Block Nvidia Telemetry
-||gfswl.geforce.com^$important
 ||*telemetry*.nvidia.com^$important
-||gfe.nvidia.com^$important
 ||cs515.and.phicdn.net^$important
 ||activation.gfe.nvidia.com^$important
 ||*events*.nvidia.com^$important
