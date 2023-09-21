@@ -1,6 +1,6 @@
 {
     "name": "StevenBlack Blocklist",
-    "description": "Blocks known fake news domains. Updated on 09-20-23",
+    "description": "Blocks known fake news domains. Updated on 09-21-23",
     "denied-remote-domains": [
         "100percentfedup.com",
         "20minutenews.com",
