@@ -1,6 +1,6 @@
 {
     "name": "StevenBlack Blocklist",
-    "description": "Blocks known pornography domains. Updated on 10-03-23",
+    "description": "Blocks known pornography domains. Updated on 10-04-23",
     "denied-remote-domains": [
         "0.oldgyhogola.com",
         "0.xd-cdn.com",
