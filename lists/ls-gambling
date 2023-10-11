@@ -1,6 +1,6 @@
 {
     "name": "StevenBlack Blocklist",
-    "description": "Blocks known gambling domains. Updated on 10-10-23",
+    "description": "Blocks known gambling domains. Updated on 10-11-23",
     "denied-remote-domains": [
         "0000130.com",
         "0066130.com",
