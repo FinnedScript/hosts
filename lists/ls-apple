@@ -1,0 +1,29 @@
+{
+    "name": "Blocklist",
+    "description": "Blocks known Apple telemetry domains. Updated on 02-27-24",
+    "denied-remote-domains": [
+        "metrics.icloud.com",
+        "stocks-analytics-events.news.apple-dns.net",
+        "radarsubmissions.apple.com",
+        "notes-analytics-events.news.apple-dns.net",
+        "iphonesubmissions.apple.com",
+        "weather-analytics-events.apple.com",
+        "iphonesubmissions.v.aaplimg.com",
+        "iadsdk.apple.com",
+        "api-adservices.apple.com",
+        "books-analytics-events.news.apple-dns.net",
+        "acfeedbackws.icloud.com",
+        "dzc-metrics.mzstatic.com",
+        "metrics.apple.com",
+        "securemetrics.apple.com",
+        "radarsubmissions.apple.com.akadns.net",
+        "securemvt.apple.com",
+        "metrics.mzstatic.com",
+        "notes-analytics-events.apple.com",
+        "weather-analytics-events.news.apple-dns.net",
+        "books-analytics-events.apple.com",
+        "feedbackws.icloud.com",
+        "supportmetrics.apple.com",
+        "stocks-analytics-events.apple.com"
+    ]
+}
