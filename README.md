@@ -4,11 +4,13 @@ This repository contains hosts files related blocking and information of various
 
 Hosts are updated once a day at 12:00am.
 
-| Category                | Location                                                  |
-|-------------------------|-----------------------------------------------------------|
-| Unified (Block List)    | https://finnedscript.github.io/hosts/lists/ls-unified      |
-| Pornography (Block List)| https://finnedscript.github.io/hosts/lists/ls-pornography  |
-| Gambling (Block List)   | https://finnedscript.github.io/hosts/lists/ls-gambling     |
-| Fake News (Block List)  | https://finnedscript.github.io/hosts/lists/ls-fakenews     |
-| Social (Block List)     | https://finnedscript.github.io/hosts/lists/ls-social       |
-| Telemetry (Block List)  | https://finnedscript.github.io/hosts/lists/ag-telemetry    |
+| Category                    | Location                                                                        |
+|-----------------------------|---------------------------------------------------------------------------------|
+| Unified (Little Snitch)     | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-unified      |
+| Pornography (Little Snitch) | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-pornography  |
+| Gambling (Little Snitch)    | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-gambling     |
+| Fake News (Little Snitch)   | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-fakenews     |
+| Social (Little Snitch)      | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-social       |
+| Apple (Little Snitch)       | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ls-apple        |
+| General Telemetry (AdGuard) | https://raw.githubusercontent.com/FinnedScript/hosts/main/lists/ag-telemetry    |
+
