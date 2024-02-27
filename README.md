@@ -2,7 +2,7 @@
 ## About
 This repository contains hosts files related blocking and information of various types of services.
 
-Hosts are updated once a day at 12:00am.
+Hosts are updated once a day at 12:00am EST.
 
 | Category                    | Location                                                                        |
 |-----------------------------|---------------------------------------------------------------------------------|
