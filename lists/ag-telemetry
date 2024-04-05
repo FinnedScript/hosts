@@ -15,6 +15,7 @@
 ||remote-config-proxy-prd.uca.cloud.unity3d.com^$important
 ||*redshell.io^$important
 ||*treasuredata.com^$important
+||*sentry.io^$important
 
 # Block Epic Games Telemetry
 ||metrics.ol.epicgames.com^$important
