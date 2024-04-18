@@ -1,6 +1,6 @@
 {
     "name": "Blocklist",
-    "description": "Blocks known fake news domains. Updated on 04-17-24",
+    "description": "Blocks known fake news domains. Updated on 04-18-24",
     "denied-remote-domains": [
         "100percentfedup.com",
         "20minutenews.com",
