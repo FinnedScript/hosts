@@ -1,6 +1,6 @@
 {
     "name": "Blocklist",
-    "description": "Blocks known social domains. Updated on 02-12-25",
+    "description": "Blocks known social domains. Updated on 02-13-25",
     "denied-remote-domains": [
         "0-act.channel.facebook.com",
         "0-edge-chat.facebook.com",
