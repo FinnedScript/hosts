@@ -1,6 +1,6 @@
 {
     "name": "Blocklist",
-    "description": "Blocks known gambling domains. Updated on 02-17-25",
+    "description": "Blocks known gambling domains. Updated on 02-18-25",
     "denied-remote-domains": [
         "0000130.com",
         "0066130.com",
