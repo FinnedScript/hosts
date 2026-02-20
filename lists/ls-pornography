@@ -1,6 +1,6 @@
 {
     "name": "Blocklist",
-    "description": "Blocks known pornography domains. Updated on 02-19-26",
+    "description": "Blocks known pornography domains. Updated on 02-20-26",
     "denied-remote-domains": [
         "0.oldgyhogola.com",
         "0.xd-cdn.com",
