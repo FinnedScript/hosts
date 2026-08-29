@@ -1,6 +1,6 @@
 {
     "name": "Blocklist",
-    "description": "Blocks known adware and malware domains. Updated on 08-28-26",
+    "description": "Blocks known adware and malware domains. Updated on 08-29-26",
     "denied-remote-domains": [
         "0-finanzierung.com",
         "0-okodukai.com",
